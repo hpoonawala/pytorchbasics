@@ -1,3 +1,4 @@
+# defines a custom CNN and trains it on CIFAR10
 if __name__ == '__main__':
     ## From https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
     import torch

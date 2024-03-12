@@ -1,3 +1,5 @@
+## Tests a custom trained CNN on CIFAR10 
+## trained in test_on_cifar.py
 ## Based on https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 ## Modified by Hasan Poonawala 
 

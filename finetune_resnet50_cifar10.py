@@ -1,6 +1,7 @@
+## Trains a resnet50-mod where the final layer output size is reduced for CIFAR10, and CIFAR10 images are resized to 224x224. As a result, batch size on homepc was 2
+## We only train the fc layer
 ## Based on https://pytorch.org/hub/nvidia_deeplearningexamples_resnet50/
 ## Modified by Hasan Poonawala 
-## We only train the fc layer
 import torch
 from PIL import Image
 import torchvision

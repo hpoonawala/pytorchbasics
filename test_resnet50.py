@@ -1,3 +1,4 @@
+# tests resnet50 on CIFAR10
 if __name__ == '__main__':
     ## Based on https://pytorch.org/hub/nvidia_deeplearningexamples_resnet50/
     ## Modified by Hasan Poonawala 

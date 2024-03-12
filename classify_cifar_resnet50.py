@@ -1,3 +1,4 @@
+# tests resnet50 on CIFAR10 without using utils
 ## Based on https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 ## Modified by Hasan Poonawala 
 
